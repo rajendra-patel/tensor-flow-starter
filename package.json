@@ -1,0 +1,27 @@
+{
+    "name": "tesnsor-flow-starter",
+    "version": "1.0.0",
+    "description": "Training gestures and getting the Output after training",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rajendra-patel/tensor-flow-starter"
+    },
+    "author": "Rajendra Patel",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rajendra-patel/tensor-flow-starter/issues"
+    },
+    "homepage": "https://github.com/rajendra-patel/tensor-flow-starter#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": "10.15.3",
+        "npm": "6.4.1"
+    }
+}
